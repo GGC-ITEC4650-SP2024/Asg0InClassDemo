@@ -9,6 +9,6 @@ public class Program
 
         float x = 4.5f;
 
-        Console.WriteLine(f);
+        Console.WriteLine(f + " some stuff");
     }
 }
